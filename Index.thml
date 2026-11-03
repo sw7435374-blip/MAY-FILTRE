@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MAY FILTRE | فلاتر تصفية المياه</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f4f9fc;color:#183047}
+header{background:#063b59;color:white;padding:25px 15px;text-align:center}
+header h1{font-size:34px;margin:5px;color:#52d5e5}
+header p{margin:10px}
+nav{background:#087d9b;padding:14px;text-align:center}
+nav a{color:white;text-decoration:none;margin:12px;font-weight:bold}
+.hero{padding:55px 20px;text-align:center;background:linear-gradient(135deg,#073c59,#08a6bd);color:white}
+.hero h2{font-size:30px}
+.hero p{font-size:18px;line-height:1.8}
+.btn{display:inline-block;background:#19b879;color:white;padding:14px 25px;border-radius:30px;text-decoration:none;font-weight:bold;margin:10px}
+section{padding:35px 15px;text-align:center}
+.products{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;max-width:1050px;margin:auto}
+.card{background:white;border-radius:15px;padding:25px;box-shadow:0 3px 15px #d5e4ec}
+.card h3{color:#087d9b}
+.card p{line-height:1.7}
+.about{background:white;line-height:2}
+footer{background:#063b59;color:white;text-align:center;padding:25px}
+</style>
+</head>
+<body>
+
+<header>
+<h1>MAY FILTRE</h1>
+<p>الماء النقي لحياة أفضل | L'eau pure pour une meilleure vie</p>
+</header>
+
+<nav>
+<a href="#home">الرئيسية</a>
+<a href="#products">منتجاتنا</a>
+<a href="#about">من نحن</a>
+<a href="#contact">اتصل بنا</a>
+</nav>
+
+<div class="hero" id="home">
+<h2>مرحبا بكم في MAY FILTRE</h2>
+<p>اكتشفوا عالم تصفية المياه مع مجموعة متنوعة من فلاتر الماء المنزلية.<br>
+Découvrez nos solutions de filtration d'eau pour votre maison.</p>
+<a class="btn" href="#products">اكتشف منتجاتنا</a>
+<a class="btn" href="https://wa.me/212624616409">اطلب عبر واتساب</a>
+</div>
+
+<section id="products">
+<h2>منتجاتنا | Nos Produits</h2>
+<div class="products">
+
+<div class="card">
+<h3>GLASSE MAX</h3>
+<p>حل لتصفية المياه المنزلية.</p>
+<a class="btn" href="https://wa.me/212624616409?text=Je%20veux%20GLASSE%20MAX">اطلب الآن</a>
+</div>
+
+<div class="card">
+<h3>GLASSE WAY</h3>
+<p>اكتشف حلول تصفية المياه المناسبة لاحتياجاتك.</p>
+<a class="btn" href="https://wa.me/212624616409?text=Je%20veux%20GLASSE%20WAY">اطلب الآن</a>
+</div>
+
+<div class="card">
+<h3>GLASSE DIGITAL 600 GPD</h3>
+<p>نظام تصفية مياه بمواصفات 600 GPD.</p>
+<a class="btn" href="https://wa.me/212624616409?text=Je%20veux%20GLASSE%20DIGITAL">اطلب الآن</a>
+</div>
+
+<div class="card">
+<h3>GLASSE PRO</h3>
+<p>اكتشف مجموعة GLASSE PRO لتصفية المياه.</p>
+<a class="btn" href="https://wa.me/212624616409?text=Je%20veux%20GLASSE%20PRO">اطلب الآن</a>
+</div>
+
+<div class="card">
+<h3>GLASSE POWER</h3>
+<p>حلول متنوعة لتصفية المياه.</p>
+<a class="btn" href="https://wa.me/212624616409?text=Je%20veux%20GLASSE%20POWER">اطلب الآن</a>
+</div>
+
+</div>
+</section>
+
+<section class="about" id="about">
+<h2>من نحن | À propos</h2>
+<p>MAY FILTRE متخصص في تقديم حلول ومنتجات تصفية المياه.
+هدفنا هو توفير منتجات متنوعة وخدمة مميزة لزبنائنا.</p>
+<p>MAY FILTRE vous propose différentes solutions de filtration d'eau avec un service client à votre écoute.</p>
+</section>
+
+<section id="contact">
+<h2>تواصل معنا | Contactez-nous</h2>
+<p>نحن رهن إشارتكم لجميع الاستفسارات والطلبات.</p>
+<a class="btn" href="https://wa.me/212624616409">WhatsApp : 0624616409</a>
+</section>
+
+<footer>
+<h3>MAY FILTRE</h3>
+<p>جميع الحقوق محفوظة © 2026</p>
+</footer>
+
+</body>
+</html>
